@@ -6,4 +6,8 @@ bbbbbbbbbbbbbbbb
 ccccccccddddddeeeeeeeeee
 =======
 ccccccccddddddfffffffffff
+<<<<<<< HEAD
 >>>>>>> featureaaa
+=======
+hhhhhhhhhhhh
+>>>>>>> feature
