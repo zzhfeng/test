@@ -2,4 +2,8 @@ this is a test file one
 changed
 aaaaaaaaaaaaaaa
 bbbbbbbbbbbbbbbb
+<<<<<<< HEAD
 ccccccccddddddeeeeeeeeee
+=======
+ccccccccddddddfffffffffff
+>>>>>>> featureaaa
